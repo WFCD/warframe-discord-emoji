@@ -18,7 +18,7 @@
 
 * ScottBrick
 
-##JakeyPrime
+## JakeyPrime
 
 * DERebecca
 * clem
