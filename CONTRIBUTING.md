@@ -18,6 +18,8 @@
 * Hek
 * Pink Fragor
 * Baro
+* clem-chibi
+* lotus-chibi
 
 ## Misan
 
