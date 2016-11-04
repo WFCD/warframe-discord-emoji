@@ -23,3 +23,5 @@
 * hek
 * pink-fragor
 * baro
+* clem-chibi
+* lotus-chibi
