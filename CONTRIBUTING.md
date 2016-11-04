@@ -13,6 +13,7 @@
 * Endo
 * SmugSteve
 * Exilus
+* Relic
 
 ## Misan
 
