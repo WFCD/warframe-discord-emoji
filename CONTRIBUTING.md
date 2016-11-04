@@ -14,6 +14,10 @@
 * SmugSteve
 * Exilus
 * Relic
+* Grakatas
+* Hek
+* Pink Fragor
+* Baro
 
 ## Misan
 
