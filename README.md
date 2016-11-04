@@ -19,3 +19,7 @@
 * salty
 * scott
 * relic
+* grakatas
+* hek
+* pink-fragor
+* baro
