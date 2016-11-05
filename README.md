@@ -25,3 +25,4 @@
 * baro
 * clem-chibi
 * lotus-chibi
+* legcore
