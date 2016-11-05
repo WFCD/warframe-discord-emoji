@@ -20,6 +20,7 @@
 * Baro
 * clem-chibi
 * lotus-chibi
+* legcore
 
 ## Misan
 
