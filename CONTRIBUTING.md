@@ -21,6 +21,13 @@
 * clem-chibi
 * lotus-chibi
 * legcore
+* baro
+* grateprime
+* hek
+* lato
+* pinkshorts
+* tyl
+* valkyr
 
 ## Misan
 
