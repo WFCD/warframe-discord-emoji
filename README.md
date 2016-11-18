@@ -26,3 +26,9 @@
 * clem-chibi
 * lotus-chibi
 * legcore
+* grateprime
+* hek
+* lato
+* pinkshorts
+* tyl
+* valkyr
