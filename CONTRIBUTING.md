@@ -29,6 +29,7 @@
 * tyl
 * valkyr
 * limbohat
+* dab
 
 ## Misan
 
