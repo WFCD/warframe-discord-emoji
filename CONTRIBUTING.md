@@ -2,12 +2,12 @@
 
 ## Tobiah
 
+* AxiRelic
 * Baro
 * Catalyst
 * clem-chibi
 * Credits
 * dab
-* Ducats
 * Endo
 * Exilus
 * Forma
@@ -15,16 +15,16 @@
 * Grakatas
 * grateprime
 * Hek
-* lato
 * LegendaryCore
 * limbohat
 * Lotus
 * lotus-chibi
+* old_Ducats
+* old_lato
 * pink_fragor
 * pinkshorts
 * Platinum
 * Reactor
-* Relic
 * SmugSteve
 * tyl
 * valkyr
@@ -47,18 +47,34 @@
 * ArgonCrystal
 * CephalonSuda
 * Clem Ingame
+* CommunityOfTennoSigil
 * Conclave
 * Darvo smug
+* DiscipleBadge
+* Ducats
+* FestiveSigil
+* GrandMasterBadge
+* HarvesterSigil
+* HunterBadge
 * Kacha_clem
+* Lato
+* LithRelic
 * lotus_pacman
+* MasterBadge
+* MesoRelic
+* NeoRelic
 * NewLoka
 * OrokinCell
 * Ostron
 * Oxium
 * PerrinSequence
 * RedVeil
+* Simaris
 * Stalker
+* StalkerSigil
 * SteelMeridian
+* The_Quills
+* TheGrustragThreeSigil
 
 ## Yuikami
 * aladshock
