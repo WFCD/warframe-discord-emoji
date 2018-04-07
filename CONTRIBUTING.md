@@ -43,27 +43,50 @@
 
 ## DJNeonNight
 
+* AlloyPlate
+* AlloyPlateContainer
+* AntiserumInjectorFragment
 * ArbitersOfHexis
 * ArgonCrystal
 * CephalonSuda
+* Circuits
+* CircuitsContainer
 * Clem Ingame
 * CommunityOfTennoSigil
+* ControlModule
+* ControlModuleContainer
 * Conclave
+* Cryotic
+* CrystalContainer
 * Darvo smug
+* DetoniteAmpule
+* DetoniteInjector
 * DiscipleBadge
 * Ducats
+* Ferrite
+* FerriteContainer
 * FestiveSigil
+* Fieldron
+* FieldronSample
+* Gallium
+* GalliumContainer
 * GrandMasterBadge
 * HarvesterSigil
 * HunterBadge
 * Kacha_clem
+* Kuva
 * Lato
 * LithRelic
 * lotus_pacman
 * MasterBadge
 * MesoRelic
+* Morphics
+* MorphicsContainer
+* MutagenMass
+* MutagenSample
 * NeoRelic
 * NewLoka
+* NitainExtract
 * OrokinCell
 * Ostron
 * Oxium
@@ -73,6 +96,7 @@
 * Stalker
 * StalkerSigil
 * SteelMeridian
+* Synthula
 * The_Quills
 * TheGrustragThreeSigil
 
