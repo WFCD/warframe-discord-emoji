@@ -5,30 +5,29 @@
 * AxiRelic
 * Baro
 * Catalyst
-* clem-chibi
+* ClemChibi
 * Credits
-* dab
+* Dab
 * Endo
 * Exilus
 * Forma
 * GOTLs
-* Grakatas
-* grateprime
+* GratePrime
 * Hek
 * LegendaryCore
-* limbohat
+* LimboHat
 * Lotus
-* lotus-chibi
-* old_Ducats
-* old_lato
-* pink_fragor
-* pinkshorts
+* LotusChibi
+* OldDucats
+* OldLato
+* PinkFragor
+* PinkShorts
 * Platinum
 * Reactor
 * SmugSteve
-* tyl
-* valkyr
-
+* TwinGrakatas
+* TylRegor
+* Valkyr
 
 ## Misan
 
@@ -37,9 +36,9 @@
 ## JakeyPrime
 
 * DERebecca
-* clem
-* salty
-* scott
+* Clem
+* Salt
+* Scott
 
 ## DJNeonNight
 
@@ -58,7 +57,7 @@
 * Conclave
 * Cryotic
 * CrystalContainer
-* Darvo smug
+* DarvoSmug
 * DetoniteAmpule
 * DetoniteInjector
 * DiscipleBadge
@@ -73,32 +72,54 @@
 * GrandMasterBadge
 * HarvesterSigil
 * HunterBadge
-* Kacha_clem
+* KachaClem
 * Kuva
 * Lato
 * LithRelic
-* lotus_pacman
+* LotusPacman
 * MasterBadge
 * MesoRelic
 * Morphics
 * MorphicsContainer
 * MutagenMass
 * MutagenSample
+* MutalistNavCoordinate
+* NanoSpores
+* NanoSporesContainer
+* NavCoordinate
 * NeoRelic
+* NeuralSensor
+* NeuralSensorContainer
+* Neurodes
+* NeurodesContainer
 * NewLoka
 * NitainExtract
+* OmegaIsotope
 * OrokinCell
+* OrokinCellContainer
 * Ostron
 * Oxium
 * PerrinSequence
+* Pigment
+* Plastids
+* PlastidsContainer
+* PolymerBundle
 * RedVeil
+* ResourceOrange
+* Rubedo
+* RubedoContainer
+* Salvage
+* SalvageContainer
 * Simaris
 * Stalker
 * StalkerSigil
 * SteelMeridian
 * Synthula
-* The_Quills
+* Tellurium
+* TheLotus
+* TheQuills
 * TheGrustragThreeSigil
+* VoidTraces
 
 ## Yuikami
 * aladshock
