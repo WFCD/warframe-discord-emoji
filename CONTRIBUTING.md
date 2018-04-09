@@ -73,6 +73,8 @@
 * HarvesterSigil
 * HunterBadge
 * KachaClem
+* KavatGen
+* KubrowEgg
 * Kuva
 * Lato
 * LithRelic
